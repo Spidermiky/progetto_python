@@ -1,10 +1,14 @@
 name,type,size(B)
+alice,doc,5
 bw,image,94926
 ciao,doc,12
 daffodil,image,24657
 eclipse,image,64243
+lucia,doc,0
+michele,doc,0
 pippo,doc,8299
 song1,audio,1087849
 song2,audio,764176
 trump,image,10195
+michele,doc,0
 img_3901,image,11231
